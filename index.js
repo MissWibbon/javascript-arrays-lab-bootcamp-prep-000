@@ -7,8 +7,7 @@ function destructivelyAppendKitten(name){
 }
 
 function appendKitten(name){
-    new array = [...kittens, "Ralph"]
-    return array
+    return [...kittens, "Ralph"]
 }
 
 function prependKitten(name){
@@ -16,5 +15,4 @@ function prependKitten(name){
 }
 
 function removeLastKitten(){
-  
 }
