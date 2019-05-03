@@ -6,8 +6,7 @@ function destructivelyAppendKitten(kittens){
 }
 
 function appendKitten(name){
-  kittens.push("Ralph")
-    return kittens()
+    return kittens[]
 }
 
 function prependKitten(){
