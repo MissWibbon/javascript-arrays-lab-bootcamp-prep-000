@@ -6,7 +6,7 @@ function destructivelyAppendKitten(kittens){
 }
 
 function appendKitten(name){
-    return kittens[]
+    return [...kittens, "Ralph"]
 }
 
 function prependKitten(){
